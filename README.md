@@ -1,6 +1,6 @@
 # Frontend Developer Intern – Assignment
 
-## 🔧 Setup Instructions
+### 🔧 Setup Instructions
 
 Follow the steps below to run this project locally on your system:
 
