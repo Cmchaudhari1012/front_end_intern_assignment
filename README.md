@@ -1,14 +1,21 @@
 # Frontend Developer Intern – Assignment
 
-This project is my submission for the **Frontend Developer Intern Assignment**.  
-It is built using **React, TypeScript, Vite, and Tailwind CSS**, following the design provided in the task.  
-The project is focused on **desktop viewports only**, as specified in the assignment PDF.
+## 🔧 Setup Instructions
 
+Follow the steps below to run this project locally on your system:
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Cmchaudhari1012/front_end_assignment.git
+
+npm install
+npm run build
+npm run preview
+npm run format
 ---
 
 ## 🚀 Live Demo
-🔗 **Live URL:** https://your-deployed-url.vercel.app  
-(Replace this with your actual deployment link)
+🔗 https://codechirag.vercel.app/
 
 ---
 
@@ -21,3 +28,15 @@ The project is focused on **desktop viewports only**, as specified in the assign
 - **Node.js (for running & building)**
 
 ---
+
+
+## ✨ Key Features Implemented
+
+- **Pixel-perfect UI** based on the provided design specifications.
+- **Component-based architecture** for clean, reusable, and modular code.
+- **TypeScript integration** to ensure type safety and maintainability.
+- **Tailwind CSS styling**, enabling fast development with utility-first classes.
+- **Responsive desktop layout** following assignment requirements.
+- **Fast development and build workflow** powered by Vite.
+- **Optimized folder structure** for easy scalability and future improvements.
+- **Deployed live version** for easy review and testing.
