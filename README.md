@@ -23,4 +23,21 @@ The project is focused on **desktop viewports only**, as specified in the assign
 ---
 
 ## 📂 Project Structure
-
+project-folder/
+│── src/
+│ ├── components/
+│ ├── assets/
+│ ├── App.tsx
+│ ├── main.tsx
+│── public/ (if any)
+│── index.html
+│── package.json
+│── package-lock.json
+│── tsconfig.json
+│── tsconfig.app.json
+│── tsconfig.node.json
+│── tailwind.config.js
+│── postcss.config.js
+│── vite.config.ts
+│── .gitignore
+│── README.md
