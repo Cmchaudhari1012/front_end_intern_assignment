@@ -21,16 +21,3 @@ The project is focused on **desktop viewports only**, as specified in the assign
 - **Node.js (for running & building)**
 
 ---
-
-
-Which is exactly what I gave you.
-
----
-
-# 🎉 Final Version (clean copy)
-
-Just copy this and paste in your README **without modifying anything**:
-
-```md
-## 📂 Project Structure
-
