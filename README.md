@@ -1,10 +1,5 @@
 # Frontend Developer Intern – Assignment
 
-### 🔧 Setup Instructions
-
-Follow the steps below to run this project locally on your system:
-
-### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Cmchaudhari1012/front_end_assignment.git
 
